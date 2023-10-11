@@ -1,7 +1,7 @@
 Title: World Happiness 2021 Visualization Project
 
 Introduction:
-In this project, I had the opportunity to explore the fascinating world of data visualization using Python. My goal was to create an interactive and informative visualization that would shed light on the global happiness levels in 2021. The World Happiness Report is an annual publication that ranks countries based on their citizens' self-reported well-being, and I wanted to bring this data to life through engaging visualizations.
+In this project, I had the opportunity to explore the fascinating world of data visualization using Python and R programming. My goal was to create an interactive and informative visualization that would shed light on the global happiness levels in 2021. The World Happiness Report is an annual publication that ranks countries based on their citizens' self-reported well-being, and I wanted to bring this data to life through engaging visualizations.
 
 Data Collection:
 The first step of this project was to gather the necessary data. I obtained the World Happiness Report data for 2021, which included scores for various factors such as GDP per capita, social support, life expectancy, and more. This data served as the foundation for the project.
